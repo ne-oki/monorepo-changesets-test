@@ -1,7 +1,6 @@
 {
   "name": "@monorepo-changesets-test/hello-world-react",
   "version": "0.0.0",
-  "private": true,
   "description": "A React component with TypeScript and Lit",
   "keywords": [
     "react",
@@ -30,14 +29,17 @@
     "@monorepo-changesets-test/hello-world": "*"
   },
   "devDependencies": {
-    "@types/eslint": "^8.56.5",
     "@monorepo-changesets-test/base-configs": "*",
     "@monorepo-changesets-test/eslint-config": "*",
+    "@types/eslint": "^8.56.5",
     "eslint": "^8.57.0",
     "rimraf": "^5.0.5",
     "typescript": "^5.3.3"
   },
   "peerDependencies": {
     "react": "^18.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
