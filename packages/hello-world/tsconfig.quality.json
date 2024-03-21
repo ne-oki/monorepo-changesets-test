@@ -1,5 +1,5 @@
 {
-  "extends": "@web-components-monorepo-starter/base-configs/tsconfig.base.json",
+  "extends": "@monorepo-changesets-test/base-configs/tsconfig.base.json",
   "compilerOptions": {
     "noEmit": true,
     "outDir": "dist"

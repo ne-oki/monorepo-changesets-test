@@ -1,5 +1,5 @@
 {
-  "name": "@web-components-monorepo-starter/storybook-react",
+  "name": "@monorepo-changesets-test/storybook-react",
   "private": true,
   "scripts": {
     "storybook": "storybook dev -p 7007",
@@ -15,7 +15,7 @@
     "@storybook/react": "^8.0.3",
     "@storybook/react-vite": "^8.0.3",
     "@storybook/test": "^8.0.3",
-    "@web-components-monorepo-starter/hello-world-react": "*",
+    "@monorepo-changesets-test/hello-world-react": "*",
     "storybook": "^8.0.3"
   }
 }

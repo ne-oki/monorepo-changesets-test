@@ -1,5 +1,5 @@
 {
-  "name": "@web-components-monorepo-starter/eslint-config",
+  "name": "@monorepo-changesets-test/eslint-config",
   "version": "0.0.0",
   "private": true,
   "files": [

@@ -1,5 +1,5 @@
 {
-  "name": "@web-components-monorepo-starter/hello-world-react",
+  "name": "@monorepo-changesets-test/hello-world-react",
   "version": "0.0.0",
   "private": true,
   "description": "A React component with TypeScript and Lit",
@@ -27,12 +27,12 @@
   },
   "dependencies": {
     "@lit/react": "^1.0.3",
-    "@web-components-monorepo-starter/hello-world": "*"
+    "@monorepo-changesets-test/hello-world": "*"
   },
   "devDependencies": {
     "@types/eslint": "^8.56.5",
-    "@web-components-monorepo-starter/base-configs": "*",
-    "@web-components-monorepo-starter/eslint-config": "*",
+    "@monorepo-changesets-test/base-configs": "*",
+    "@monorepo-changesets-test/eslint-config": "*",
     "eslint": "^8.57.0",
     "rimraf": "^5.0.5",
     "typescript": "^5.3.3"

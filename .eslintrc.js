@@ -2,7 +2,7 @@
 /** @type {import("eslint").Linter.Config} */
 module.exports = {
   ignorePatterns: ['packages/**'],
-  extends: ['@web-components-monorepo-starter/eslint-config/base.js'],
+  extends: ['@monorepo-changesets-test/eslint-config/base.js'],
   parserOptions: {
     project: true,
   },

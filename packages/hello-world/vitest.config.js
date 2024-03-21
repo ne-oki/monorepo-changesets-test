@@ -1,3 +1,3 @@
-import baseConfig from '@web-components-monorepo-starter/base-configs/vitest.base.js'
+import baseConfig from '@monorepo-changesets-test/base-configs/vitest.base.js'
 
 export default baseConfig

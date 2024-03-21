@@ -1,3 +1,3 @@
 export default {
-  extends: '@web-components-monorepo-starter/base-configs/stylelint.lit.js',
+  extends: '@monorepo-changesets-test/base-configs/stylelint.lit.js',
 }

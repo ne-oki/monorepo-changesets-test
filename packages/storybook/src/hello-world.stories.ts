@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/web-components'
 import { html } from 'lit'
 
-import '@web-components-monorepo-starter/hello-world'
+import '@monorepo-changesets-test/hello-world'
 
 interface HelloWorldProps {
   name: string
