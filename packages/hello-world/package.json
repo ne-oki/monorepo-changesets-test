@@ -1,6 +1,6 @@
 {
   "name": "@monorepo-changesets-test/hello-world",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A web component with TypeScript and Lit",
   "keywords": [
     "web-components",

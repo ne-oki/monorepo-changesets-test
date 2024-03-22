@@ -1,5 +1,13 @@
 # @monorepo-changesets-test/hello-world-react
 
+## 0.0.3
+
+### Patch Changes
+
+- b108ea0: don't use wild version
+- Updated dependencies [b108ea0]
+  - @monorepo-changesets-test/hello-world@0.0.3
+
 ## 0.0.2
 
 ### Patch Changes
