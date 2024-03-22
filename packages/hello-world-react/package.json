@@ -1,6 +1,6 @@
 {
   "name": "@monorepo-changesets-test/hello-world-react",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A React component with TypeScript and Lit",
   "keywords": [
     "react",
@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@lit/react": "^1.0.3",
-    "@monorepo-changesets-test/hello-world": "^0.0.3"
+    "@monorepo-changesets-test/hello-world": "^0.0.4"
   },
   "devDependencies": {
     "@monorepo-changesets-test/base-configs": "*",
