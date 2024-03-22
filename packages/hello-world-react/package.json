@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@lit/react": "^1.0.3",
-    "@monorepo-changesets-test/hello-world": "*"
+    "@monorepo-changesets-test/hello-world": "^0.0.2"
   },
   "devDependencies": {
     "@monorepo-changesets-test/base-configs": "*",
