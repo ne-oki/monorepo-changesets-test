@@ -1,5 +1,12 @@
 # @monorepo-changesets-test/hello-world-react
 
+## 0.0.4
+
+### Patch Changes
+
+- Updated dependencies [[`76db48b`](https://github.com/neokidev/monorepo-changesets-test/commit/76db48bcd7cf293789c72388f6aaeb6b02caa1af)]:
+  - @monorepo-changesets-test/hello-world@0.0.4
+
 ## 0.0.3
 
 ### Patch Changes
