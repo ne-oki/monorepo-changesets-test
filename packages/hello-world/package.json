@@ -42,7 +42,7 @@
     "@monorepo-changesets-test/eslint-config": "*",
     "@testing-library/user-event": "^14.5.2",
     "@types/eslint": "^8.56.5",
-    "eslint": "^8.57.0",
+    "eslint": "^9.1.0",
     "jsdom": "^24.0.0",
     "lit-analyzer": "^2.0.3",
     "rimraf": "^5.0.5",
